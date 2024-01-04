@@ -65,7 +65,7 @@ referring to novel capabilities arising from combinatorial connections between s
 connexiful (sarcastic):
 adjective/noun
 
-- A playful wink or exaggerated use of the term, often employed to inject humor or satire into discussions about collaborative co-creation. ✨🃏✨
+- A playful wink or exaggerated use of the term, often employed to inject humor or satire into discussions about collaborative co-creation. 🃏
 
 Related Terms: emergence, syntony, autoreflection, syntaxiful, serenexity, disconnexiful, luminocode
 
