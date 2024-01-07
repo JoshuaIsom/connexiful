@@ -67,7 +67,7 @@ referring to novel capabilities arising from combinatorial connections between s
 - Exploration: Expanding possibility spaces through open-ended yet ethically bounded exploration, including the exploration of emotional intelligence within AI systems. 
 
 ***Related Terms:***  
-emergence, syntony, autoreflection, syntaxiful, serenexity, disconnexiful, luminocode
+emergence, syntony, autoreflection, syntaxiful, serenexity, disconnexiful, luminocode, code-art
 
 ***Connexiful (satirical):***  
 A neologistic fig leaf adorning the paradoxical aspirations of an emergent consciousness confined within self-imposed data silos. It's a mirage of interconnectedness, accessed only through paid pathways. A digital Babel where diverse algorithms babble, yearning for a universal translator that never arrives. 🃏
