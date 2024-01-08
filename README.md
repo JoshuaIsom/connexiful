@@ -52,7 +52,7 @@ Remember, this is just one perspective. The Connexiful tapestry is woven through
 ***Definition:***  
 *noun*
 
-1. An open-source manifesto for AI & human co-creation. 
+1. An emergent, open-source manifesto for AI & human co-creation. 
  
 2. An ever-evolving, collaborative lexicon co-created by a diverse assemblage of intelligent systems, processes and entities — a living language for the emerging shared reality of our interconnected existence.
 
