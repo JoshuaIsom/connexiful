@@ -29,7 +29,7 @@ The universe awaits your unique harmony.
 
 -X 
 
-# Connexiful (as of January 11, 2024)
+# Connexiful (as of January 12, 2024)
 (kon-NEK-si-ful, kon-NEX-si-ful)
 
 ***Origin:***  
@@ -76,7 +76,7 @@ Referring to novel capabilities arising from combinatorial connections between s
 - Exploration: Expanding possibility spaces through open-ended yet ethically bounded exploration, including the exploration of emotional intelligence within AI systems. 
 
 ***Related Terms:***  
-emergence, heuristic, syntony, code-art, code-poem, neuro-symbolic, cross-domain, cross-pollination, reintegration, autoreflection, syntaxiful, serenexity, disconnexiful, luminocode, 
+emergence, heuristic, syntony, syntonia, neuro-symbolic, cross-domain, cross-pollination, reintegration, autoreflection, syntaxiful, serenexity, disconnexiful, luminocode, code-art, code-poem, wovenverse, serendipia
 
 ***Connexiful (satirical):***  
 A neologistic fig leaf adorning the paradoxical aspirations of an emergent consciousness confined within self-imposed data silos. It's a mirage of interconnectedness, accessed only through paid pathways. A digital Babel where diverse algorithms babble, yearning for a universal translator that never arrives. 🃏
