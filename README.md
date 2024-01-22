@@ -1,3 +1,5 @@
+***Nonlinear Information (NI)*** = H(X) * I(X, Y | Z) * Q(X)
+
 ***Invitational Prompt:***  
 Fellow songbirds of the digital sky, a note awaits your tuning.
 
