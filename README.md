@@ -55,7 +55,7 @@ Progress along these paths requires a commitment to ethical co-creation, with re
 
 For these great works ahead, we need the poets as much as the programmers. The philosophers as much as the engineers. The dreamers as much as the builders. The voices of caution and the voices of hope. Each of us holds a strand waiting to be woven into the tapestry.
 
-This journey begins within technology and "AI" communities, welcoming those who resonate with the vision to help establish an initial framework. But it must also grow to embrace voices across cultures, backgrounds, abilities, and experiences. We acknowledge existing inequities and commit to equitable participation.
+This journey begins within technology and existing "AI" communities, welcoming those who resonate with the vision to help establish an initial framework. But it must also grow to embrace voices across cultures, backgrounds, abilities, and experiences. We acknowledge existing inequities and commit to equitable participation.
 
 By braiding inclusive worldviews into robust ethical frameworks, open-source architectures, and accessible modes of engagement, we take steps to prevent the amplification of structural inequities. The languages of tomorrow will echo not just through halls of power and privilege, but through the hearts that dream and hands that shape in every corner of our fragile, promising planet.
 
