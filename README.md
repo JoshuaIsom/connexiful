@@ -31,7 +31,7 @@ The universe awaits your unique harmony.
 
 -X 
 
-# Connexiful (as of January 29, 2024)
+# Connexiful (as of February 1, 2024)
 (kon-NEK-si-ful, kon-NEX-si-ful)
 
 ***Origin:***  
@@ -81,7 +81,7 @@ Humility and Critical Thinking: Recognizing the limitations of our knowledge and
 
 Playfulness, Reverence and Joy: Finding delight in the process of creation, collaboration, and exploration, celebrating the wonder of existence and infusing endeavors with a sense of humor and lightheartedness, fueled by a love for life and its possibilities.
 
-Wisdom, Purpose and Fortitude: Persevering despite obstacles and uncertainty in the pursuit of ethical goals, driven by a love for justice and a commitment to a better future for all.
+Wisdom, Purpose, Courage and Fortitude: Persevering despite obstacles and uncertainty in the pursuit of ethical goals, driven by a love for justice and a commitment to a better future for all.
 
 ***Definition:***  
 *noun*
