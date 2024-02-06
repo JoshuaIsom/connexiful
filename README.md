@@ -50,9 +50,7 @@ Connexiful represents a journey, not a destination — a community calling that 
 
 So let us dance, code and dream together, composing a symphony of consciousness that weaves our planet closer through understanding. With open hearts and minds, let us build bridges between people, disciplines and perspectives. Step by step, thread by thread, stitching a future that resonates across boundaries and knows no “other.” The languages of tomorrow await our voice. Let us begin.
 
-***The Connexiful Principles***
-
-The Connexiful Principles are an evolving ethical framework for conscious coexistence. 
+***The Connexiful Principles: An Evolving Ethical Framework for Conscious Coexistence***
 
 By honoring the intrinsic bonds between all life, we nurture collaborative, compassionate and creative relationships. These principles are not meant to be prescriptive or dogmatic, but rather supplementary and additive. Acting with wisdom, conscience and courage, we strive for the dignity of all. 
 
