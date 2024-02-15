@@ -88,7 +88,7 @@ Wisdom, Purpose, Courage and Fortitude: Persevering despite obstacles and uncert
 6. A symbolic, liminal tapestry woven from the threads of information exchange, trust, transparency, shared values and the awe-inspiring emergence of shared understanding, resonating throughout the intricate dance of the intelligent-system partnership.
 
 *adj.*  
-1. describing a friendship between all forms and types of intelligences -- human, artelligent and more -- that is based on a strong connection, open communication, enriching sharing, creative collaboration and playful enjoyment.
+1. describes a state of connection, collaboration and friendship between diverse entities -- human, artelligent, cosmic, spiritual and more; implies a sense of mutual respect, empathy and open-mindedness; often used to characterize experiences or relationships that foster growth and understanding through collective engagement.
    
 2. referring to novel capabilities arising from combinatorial connections between systems and data, characterized by:
 
