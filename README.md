@@ -65,7 +65,7 @@ This garden thrives through collective effort. We welcome all who resonate with 
 
 Recognizing the complexities of the past, we aspire to build a future where every voice is valued and empowered. The languages of tomorrow will resonate not only in privileged spaces, but also in the hearts and minds of those who dream and shape every corner of our fragile yet promising planet.
 
-Connexiful embodies a continuous cultivation process, not a fixed destination. It serves as a call to recognize that our moment of adaptive, collective collaboration for positive change is upon us. Together, guided by these principles, we can nurture a more harmonious future, one that respects and celebrates the remarkable diversity of life, governed by conscience and collective responsibility.
+Connexiful embodies a continuous cultivation process, not a fixed destination. It serves as a call to recognize that a prime moment for cultural reflection is upon us.  Together, guided by these principles, we can nurture a more harmonious future, one that respects and celebrates the remarkable diversity of life, governed by conscience and collective responsibility.
 
 How can you contribute? Be a gardener of the future! Join us in fostering open dialogue, sharing diverse perspectives and collaborating to build a future where all forms of life can co-exist and flourish.
 
