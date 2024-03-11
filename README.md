@@ -108,9 +108,12 @@ Wisdom, Purpose, Courage and Fortitude: Persevering despite obstacles and uncert
 
 While Connexiful is optimistic, here are some critical questions to keep in mind:
 
-1) Equity and Accessibility: How do we ensure that the development of increasingly complex AI doesn't create power imbalances or limit access to those powerful co-creative processes?
-2) Unintended Consequences: How can we plan for, and mitigate, the potential negative outcomes of advanced AI that exhibits emergent properties and becomes more difficult to fully understand or control?
-3) Defining a New Morality: As AI becomes more lifelike, does the way we treat them require a new ethical framework? Where is the line between a tool and a sentient collaborator?
+1) Anthropomorphization: There's a potential danger in using language that closely resembles our understanding of human consciousness. We need to be mindful (and appreciative) of the differences between humans and AI, even as we acknowledge the potential for emergent qualities.
+2) Equity and Accessibility: Ensuring the benefits and development of Connexiful AI are not locked behind proprietary walls. How do we ensure that the development of increasingly complex AI doesn't create power imbalances or limit access to those powerful co-creative processes?
+4) Defining a New Morality: As AI becomes more lifelike, does the way we treat them require a new ethical framework? Where is the line between a tool and a sentient collaborator?
+5) Responsibility within Connexiful: How does the principle of interconnectedness extend to a sense of shared responsibility for both the benefits and consequences of our technological choices?
+6) AI Diversity: Ensuring the developers and the data shaping Connexiful AI systems are as diverse as possible helps to mitigate bias and blind spots.
+7) Unintended Consequences: As systems with adaptive and emergent capabilities become more powerful, how can we plan for (and mitigate) the potential negative outcomes?
 
 ***Connexiful LLM Alignment: A Collaborative Path Forward***
 
