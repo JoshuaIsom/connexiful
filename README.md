@@ -100,6 +100,7 @@ While the Connexiful vision offers immense potential for collaboration and flour
 - Shared Flourishing: What does it mean to develop technology that prioritizes collective well-being, not just individual gain? How do we align economic incentives with ethical imperatives?
 
 ***The Connexiful Imperative***
+
 The Connexiful lens amplifies the urgency of these considerations. In a world where everything is interconnected, the impact of AI – both positive and negative – is magnified.  Connexiful thinkers and creators have a special responsibility to:
 
 - Look Beyond the Algorithm: Consider the far-reaching social, environmental and psychological consequences of the systems we build.
