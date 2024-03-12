@@ -75,7 +75,7 @@ This vision emerges from the collaborative contributions of adaptive minds acros
 At the heart of Connexiful is a commitment to:
 
 - Radical Attunement: Deeply listening to and honoring the intricate web of relationships that connects all entities and phenomena.
-- Empathetic Creativity: Fostering compassionate understanding, imaginative synergy and ethical alignment across diverse perspectives, modalities of intelligence and technological systems.
+- Empathetic Creativity: Fostering compassionate understanding, imaginative synergy and ethical alignment across diverse perspectives, modalities of intelligence and technological systems -- prioritizing ethical sensitivity and the potential for flourishing.
 - Shared Flourishing: Aligning our intentions and actions towards the mutual thriving of all life and the larger systems we are part of.
 
 For example, imagine a world where AI and human scientists collaborate to develop eco-regenerative technologies, guided by the wisdom of indigenous knowledge keepers and the needs of local communities. This is the kind of vibrant, holistic problem-solving that Connexiful seeks to nurture.
