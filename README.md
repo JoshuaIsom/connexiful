@@ -90,6 +90,7 @@ At the heart of Connexiful is a commitment to:
 - Harmonious Emergence: Recognizing that thriving at any scale is mirrored and supported by the flourishing of the whole.
 
 ***Beyond Connexiful: Grounding our Aspirations in Ethical AI***
+
 While the Connexiful vision offers immense potential for collaboration and flourishing, it must be built upon a foundation of responsible AI practices. Let's explore the cornerstone principles that guide us in ensuring technology serves the greater good:
 
 - Equity and Inclusion: How do we design systems that actively challenge biases, promote representation and ensure diverse voices are not just heard, but truly shape the technologies of tomorrow?
