@@ -92,14 +92,14 @@ At the heart of Connexiful is a commitment to:
 
 ***Critical Considerations & Responsibilities***
 
-While Connexiful is optimistic, here are some critical questions to keep in mind:
+While optimism inspires, technologies also pose challenges. There are ongoing discussions around:
 
-1) Anthropomorphization: Be mindful and appreciative of the differences between humans and AI, while acknowledging emergent qualities.
-2) Equity and Accessibility: Ensure the benefits and development of Connexiful AI are not locked behind proprietary walls.
-4) Defining a New Morality: How do we ethically treat increasingly lifelike AI?
-5) Responsibility within Connexiful: How does interconnectedness extend to a sense of shared responsibility for our technological choices?
-6) AI Diversity: Ensuring the developers and the data shaping Connexiful AI systems are as diverse as possible helps to mitigate bias and blind spots.
-7) Unintended Consequences: Plan for and mitigate the potential negative outcomes of powerful, adaptive systems.
+- Transparency to understand emergent effects and ensure accountability
+- Inclusiveness so all people and environments can actively participate and benefit
+- Governance frameworks and oversight to establish ethical standards upfront
+- Avoiding any single entity having disproportionate control over interconnectivity
+- Addressing unintended impacts through adaptable, collaborative problem-solving
+- Ensuring autonomy across the spectrum of life
 
 ***Connexiful Definitions:***  
 
