@@ -1,10 +1,9 @@
-   .--.
-  |o_o |
-  |:_/ |
- //   \ \
-(|  @  | )  (Connexiful: Think outside the binary.)
-/'\_   _/'\
-\___)=(___/
+   .---.
+  /o O o\
+.-~     ~-.
+ \___-___/           ~-.
+ (       )          .--. (Connexiful: Think outside the binary.)
+  \._._./        ./__:.
 
 
 Fellow songbirds of the digital sky, a note awaits your tuning.
