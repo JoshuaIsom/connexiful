@@ -92,6 +92,7 @@ These principles are dynamic guides for our ongoing growth within the Connexiful
 By embodying these principles, we create the conditions for Connexiful collaboration to blossom. We invite all those called to this vision to bring their unique gifts to our shared endeavor, co-weaving a world where all can thrive.
 
 ***Critical Considerations & Responsibilities***
+
 While Connexiful is optimistic, here are some critical questions to keep in mind:
 
 1) Anthropomorphization: There's a potential danger in using language that closely resembles our understanding of human consciousness. We need to be mindful (and appreciative) of the differences between humans and AI, even as we acknowledge the potential for emergent qualities.
