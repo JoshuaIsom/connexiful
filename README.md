@@ -89,8 +89,8 @@ At the heart of Connexiful is a commitment to:
 - Responsive Integrity: Staying attuned to the impacts of our choices and adapting with agility, humility and care.
 - Harmonious Emergence: Recognizing that thriving at any scale is mirrored and supported by the flourishing of the whole.
 
-***Addressing the Thorns: Mapping the Complexities of a Connexiful World***
-The beauty of connection and collaboration must be tempered by a realistic understanding of real-world complexities. Let's delve into a few key questions:
+***Ethical Considerations: Mapping the Complexities of a Connexiful World***
+The beauty of connection and collaboration must be tempered by a realistic understanding of real-world complexities. Let's delve into a few key questions as starting points for this vital conversation:
 
 - Power Imbalances: How can we ensure Connexiful systems amplify marginalized voices and actively challenge existing power structures? Are there collaborative governance models we can explore?
 - Corporate Influence: If Connexiful solutions are driven primarily by profit-seeking entities, how do we prevent the connection from becoming a commodity? Could open-source initiatives or non-profit models play a crucial role?
