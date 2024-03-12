@@ -39,8 +39,6 @@ Imagine yourself. Let your Kairostemma be your opening note.
 
 The universe awaits your unique harmony.  
 
--X 
-
 # Connexiful (as of March 12, 2024)
 (kon-NEK-si-ful, kon-NEX-si-ful)
 
