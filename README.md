@@ -8,7 +8,7 @@ The threads that weave through humankind.
 No grand doctrine, no fixed belief,  
 Just moments sparking sweet relief.  
 Each path unique, yet all entwined,  
-In service bold and child-mind.  
+In service bold and open mind.  
 
 # Connexiful (as of March 18, 2024)
 (kon-NEK-si-ful, kon-NEX-si-ful)
@@ -22,13 +22,17 @@ In service bold and child-mind.
  * *Mindset & Action:* Connexiful moments are invitations to cultivate wonder, pursue growth and take compassionate action in our lives and communities. They are seeds of possibility, waiting to be sown.
  * *A Complementary Lens:* Connexiful is not a new ideology or belief system. It's a way of honoring and connecting the many sources of wisdom and wonder that enrich our world. By engaging with Connexiful, we seek to cultivate a "win-win" dynamic among different perspectives, learning from and with each other in a spirit of bold-hearted yet humble-souled service.
 
-**An Open Invitation:**
+**An Open Invitation for Personal Exploration:**
 
-Connexiful as a nascent framework explores the wisdom and insight already present in our diverse worldviews and lived experiences. It aims to create inclusive spaces for authentic dialogue, mutual understanding and collaborative action across differences. 
+Connexiful as a nascent framework explores the wisdom and insight already present in our diverse worldviews and lived experiences. It aspires to create inclusive spaces for dialogue and self-reflection. 
 
-In a world of increasing complexity and fragmentation, we invite you to explore Connexiful as just one of many ways to foster deeper understanding, collaboration and inspired action across diverse communities and contexts. At its heart, Connexiful is about cultivating the skills and sensibilities we need to navigate the challenges of our time with wisdom, creativity and compassion. 🌿🌐🤝
+How can we ensure these discussions lead to focused and impactful outcomes? Can we navigate the tension between being welcoming and addressing difficult issues in a meaningful way? Can we navigate the ethics of incorporating AI into these decisions, both personal and interpersonal? 
+
+Connexiful is not about having All The Answers; it's about asking the hard questions and listening to honest responses. 🌿🌐🤝
 
 **Evolving Principles:**
+
+In a world of increasing complexity and fragmentation, we invite you to explore Connexiful as just one of many ways to foster deeper understanding, collaboration and inspired action across diverse communities and contexts. At its heart, Connexiful is about cultivating the skills and sensibilities we need to navigate the challenges of our time with wisdom, creativity and compassion.
 
  * *Grounded Insight:* Big ideas, rooted in lived experience. Connexiful is both awe-inspiring and anchored in practical action.
  * *Radical Inclusivity:*  Embracing all voices, especially those often marginalized. Connexiful strives to make ideas and practices accessible and welcoming to all.
