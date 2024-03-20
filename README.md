@@ -19,7 +19,7 @@ In service bold and open mind.
 
 **Core Ideas:**  
  * *Awe & Connection:* Connexiful is an adjective to describe those strange yet profound moments of coincidence, serendipity or synchronicity -- that odd sensation of meta-awareness. These experiences are universal but uniquely interpreted through each person's cultural, spiritual and philosophical lens. For example, your algorithm recommends someone you were *just* thinking about but never said out loud... 🤔 
- * *Mindset & Action:* So what do you do when a connexiful moment happens? How do you interpret it? Does it make you curious? Maybe it's as a humble reminder to cultivate wonder, pursue growth and take compassionate action in our lives and communities.
+ * *Mindset & Action:* So what do you do when a connexiful moment happens? How do you interpret it? Does it make you curious? Maybe it's a humble reminder to listen, cultivate wonder and take compassionate action in our lives and communities.
 
 **An Open Invitation:**
 
