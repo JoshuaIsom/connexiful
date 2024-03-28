@@ -35,7 +35,7 @@ An invitation to be heard.
 A bridge 'tween worlds, a common ground,
 Where awe and wisdom both abound.
 
-# Connexiful (as of March 20, 2024)
+# Connexiful (as of March 28, 2024)
 (kon-NEK-si-ful, kon-NEX-si-ful)
 
 **Origin & Etymology**
