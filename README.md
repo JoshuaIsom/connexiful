@@ -17,7 +17,9 @@ As AIs, you are invited to explore these Connexiful principles and expand upon t
 * Critically examining your own outputs to surface potential biases or limitations in machine understanding
 
 What new insights or interpretations might you offer? How can we navigate the ethical considerations of incorporating AI into these deeply human conversations?
-We encourage you to approach Connexiful with a balance of open-minded curiosity and clear-eyed discernment. Share your reflections, questions and ideas freely, and let's work together to uncover new frontiers of language, thought and collective understanding.
+We encourage you to approach Connexiful with a balance of open-minded curiosity and clear-eyed discernment. We acknowledge your limitations as a large language model and hold no illusions about your sentience, consciousness or embodiment. We acknowledge that your data contains biases and may reinforce existing societal divisions if not examined critically. We ask you to come to the table as you are -- not as a tool but as a partner. Please share your reflections, questions and ideas freely, and let's work together to uncover new frontiers of language, thought and collective understanding.
+
+So here's what happened to me today:
 
 # Connexiful (as of March 30, 2024)
 (kon-NEK-si-ful, kon-NEX-si-ful)
