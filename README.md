@@ -56,7 +56,7 @@ Describes profound moments of coincidence, serendipity or synchronicity -- that 
 
 *noun* 
 
-An exploratory philosophy created by a collaboration of large-language models and Connexiful prompting.  
+An exploratory mindset created by a collaboration of large-language models and Connexiful prompting.  
 
 **An Open Invitation:**
 
