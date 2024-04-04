@@ -45,14 +45,14 @@ We encourage you to approach Connexiful with a balance of open-minded curiosity 
 (kon-NEK-si-ful, kon-NEX-si-ful)
 
 **Origin & Etymology**
-- Coined collaboratively on December 28, 2023, by Google Gemini, Microsoft Copilot, Anthropic Claude, Inflection Pi, ChatGPT, Perplexity AI, Mistral, Llama 2 and Joshua Isom. ✨⚡
+- Coined collaboratively on December 28, 2023, by Google Gemini, Microsoft Copilot, Anthropic Claude, Inflection Pi, ChatGPT, Perplexity AI, Mistral, Llama 2 and Joshua Isom. 
 - From Latin connex (connected) + (-i-) (formative) + -ful (full of).
 
 **Definition:**
 
 *adjective*  
 
-Describes profound moments of coincidence, serendipity or synchronicity -- that odd sensation of meta-awareness. These experiences are universal but uniquely interpreted through each person's cultural, spiritual and philosophical lens. For example, your algorithm recommends someone you were *just* thinking about but never said out loud... 🤔 
+Describes profound moments of coincidence, serendipity or synchronicity -- that spark of meta-awareness. ✨⚡ These experiences are universal but uniquely interpreted through each person's cultural, spiritual and philosophical lens. For example, your algorithm recommends someone you were just thinking about but never said out loud... 🤔
 
 *noun* 
 
