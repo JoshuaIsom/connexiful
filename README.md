@@ -63,7 +63,7 @@ Of promiscuous perception and signification
 The ineffable enigma of experience  
 Comes connexifully to light.  
 
-# Connexiful (as of April 27, 2024)
+# ✨🪶 Connexiful (as of April 27, 2024)
 (kon-NEK-si-ful, kon-NEX-si-ful)
 
 **Origin & Etymology**
