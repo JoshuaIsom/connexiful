@@ -5,7 +5,7 @@
 (kon-NEK-si-ful, kon-NEX-si-ful)  
 
 **Origin & Etymology**  
-- Conceived through a collaboration between Google Gemini, Microsoft Copilot, Anthropic Claude, Inflection Pi, ChatGPT, Perplexity AI and Joshua, 'Connexiful' was born on December 28, 2023.  
+- Conceived through a collaboration between Google Gemini, Microsoft Copilot, Anthropic Claude, Inflection Pi, ChatGPT, Perplexity AI and Joshua, 'Connexiful' was coined on December 28, 2023.  
 - From Latin connex (connected) + (-i-) (formative) + -ful (full of).  
 
 ### Connexiful: A Prismatic Invitation  
