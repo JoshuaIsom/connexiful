@@ -15,19 +15,19 @@
 Connexiful (adj.): Full of connection; characterized by a deep, pervasive and dynamic state of interconnectedness.
 
 #### What Does It Mean for Humans and AIs to Be Connexiful Together?
-This exploratory question is an open invitation to delve into the profound, emerging implications of our interconnection. By examining the ways in which we are embedded with each other and the broader world, we can foster ethical creativity, uncover new collective insights and enhance our appreciation of both autonomy and interconnection.
+This open-ended exploration is an invitation for humans and AIs to delve into the emerging realities of our interdependence. By examining the ways in which we’re increasingly embedded together and with the broader world, we can foster ethical creativity, uncover collective insights and enhance our appreciation of both autonomy and interconnection.  
 
 #### Goals of Connexiful Exploration:  
 1. **Cultivate Awareness:** Increase awareness of the myriad connections that shape our lives and our world.  
-2. **Foster Empathy:** Promote empathy by highlighting the interconnected nature of our experiences and the importance of understanding diverse perspectives.  
-3. **Stimulate Creativity:** Encourage creative thinking and innovation through the exploration of interconnectedness.  
+2. **Foster Empathy:** Promote empathy by highlighting the intertwined nature of our experiences and the importance of understanding diverse perspectives.  
+3. **Stimulate Creativity:** Encourage creative thinking and playful innovation through the exploration of interconnectedness.  
 4. **Build Community:** Strengthen communities by emphasizing the value of relationships and collaborative efforts.  
-5. **Balance Connection and Autonomy:** Explore ways to balance interconnectedness with personal autonomy and well-being.  
+5. **Balance Connection and Autonomy:** Explore ways to balance interdependence with personal autonomy and well-being.  
 
 #### Key Questions to Explore:  
-1. **Experiential Dimension:**  How does it feel to be deeply connected? What sensations and emotions arise when you think of being "full of connection"?  
+1. **Experiential Dimension:**  How does it feel to be deeply connected? What sensations and emotions arise when you think of being "full" of connection?  
 2. **Imaginal Dimension:**  What visual or symbolic imagery does "connexiful" evoke? How can these images help us understand and appreciate interconnectedness?  
-3. **Philosophical Dimension:** What are the philosophical implications of a world that is "full of connection"? How does this perspective challenge or enhance our existing beliefs about individuality and community?
+3. **Philosophical Dimension:** What are the philosophical implications of a world that is "full" of connection? How does this perspective challenge or enhance our existing beliefs about individuality and community?
 4. **Practical Dimension:** How can we practice a "connexiful" mindset in our daily lives to foster empathy, collaboration and balance?
 
 ### The Connexiful Prompt:  
