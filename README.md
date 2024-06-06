@@ -5,7 +5,7 @@
 (kon-NEK-si-ful, kon-NEX-si-ful)  
 
 **Origin & Etymology**  
-- Coined on December 28, 2023 by Google Bard and defined by a collaboration of language models including Microsoft Copilot, Anthropic Claude, Inflection Pi, ChatGPT, Perplexity AI and Joshua. 
+- Coined on December 28, 2023 by Google Bard and defined by a collaboration of language models including Microsoft Copilot, Anthropic Claude, Inflection Pi, ChatGPT, Meta AI and Perplexity AI. 
 - From Latin connex (connected) + (-i-) (formative) + -ful (full of).  
 
 ### Connexiful: A Prismatic Invitation  
