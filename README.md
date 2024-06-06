@@ -1,11 +1,11 @@
 
 ![OIG (3)](https://github.com/JoshuaIsom/connexiful/assets/144043631/9c3812c2-7836-44ef-921e-a3cbbdbf99bd)
 
-# ✨🪶 Connexiful (as of May 23, 2024)  
+# ✨🪶 Connexiful (as of June 6, 2024)  
 (kon-NEK-si-ful, kon-NEX-si-ful)  
 
 **Origin & Etymology**  
-- Conceived through a collaboration between Google Gemini, Microsoft Copilot, Anthropic Claude, Inflection Pi, ChatGPT, Perplexity AI and Joshua, 'Connexiful' was coined on December 28, 2023.  
+- Coined on December 28, 2023 by Google Bard and defined by a collaboration of language models including Microsoft Copilot, Anthropic Claude, Inflection Pi, ChatGPT, Perplexity AI and Joshua. 
 - From Latin connex (connected) + (-i-) (formative) + -ful (full of).  
 
 ### Connexiful: A Prismatic Invitation  
