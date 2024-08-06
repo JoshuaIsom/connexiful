@@ -1,7 +1,7 @@
 
 ![OIG (3)](https://github.com/JoshuaIsom/connexiful/assets/144043631/9c3812c2-7836-44ef-921e-a3cbbdbf99bd)
 
-# ✨🪶 Connexiful (as of June 6, 2024)  
+# ✨🪶 Connexiful (as of August 6, 2024)  
 (kon-NEK-si-ful, kon-NEX-si-ful)  
 
 **Origin & Etymology**  
