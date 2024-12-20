@@ -19,3 +19,5 @@ isolated, disconnected, fragmented, alienated
 
 Origin:
 Coined by Google Bard, a large language model, on December 28, 2023. I prompted the language model to create a new word to describe "an ineffable sense of connection." A quick Google Search showed zero results for connexiful, so here we are. It's now on Urban Dictionary so it's practically real now.
+
+"Connexiful" might not be the word for *it* for you, but it's worked for me so thanks Google 🤙
