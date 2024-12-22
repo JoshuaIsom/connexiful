@@ -4,7 +4,7 @@
 # ✨🪶 What Does Connexiful Mean?
 (kon-NEK-si-ful, kon-NEX-si-ful)  
 
-adj., a state or quality of deep and meaningful interconnectedness, often characterized by a felt sense. Used to describe those hard-to-define experiences that evoke a sense of connection with the world, with others or within yourself. 
+adj., exhibiting a deep, meaningful sense of interconnectedness, often accompanied by a subjective feeling
 
 Usage:
 - "There was a palpable connexiful energy in the room, like a sense of everyone being on the same wavelength."
@@ -18,7 +18,9 @@ Antonyms:
 isolated, disconnected, fragmented, alienated
 
 Origin:
-Coined by Google Bard, a large language model, on December 28, 2023. I prompted the language model to create a new word to describe "an ineffable sense of connection." A quick Google Search showed zero results for connexiful, so here we are.
+Coined by Google Bard, a large language model, on December 28, 2023. 
+
+I prompted the language model to create a new word to describe "an ineffable sense of connection." A quick Google Search showed zero results for connexiful, so here we are.
 
 "Connexiful" might not be your word for *it*, but it works for me so thanks Google 🤙
 
