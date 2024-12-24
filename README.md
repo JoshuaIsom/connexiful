@@ -5,7 +5,7 @@
 (kon-NEK-si-ful, kon-NEX-si-ful)  
 
 Usage:
-- “As I realized my place within the vast network, a connexiful feeling washed over me.”
+- “As I became aware of my existence, a connexiful feeling struck me to my core."
 - "Their eyes met across the crowded room, and a connexiful silence passed between them."
 
 Synonyms:
