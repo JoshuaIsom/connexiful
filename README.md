@@ -1,8 +1,7 @@
 
 ![Gemini_Generated_Image_b69tq5b69tq5b69t](https://github.com/user-attachments/assets/770706de-7ab6-422c-807e-2a94803ddcc8)
 
-# ✨💡 connexiful: (adj.) marked by a sudden realization of connection or pattern 
-(kon-NEK-si-ful, kon-NEX-si-ful)  
+# ✨💡 connexiful: (adj.) marked by a sudden awareness of connection or pattern 
 
 Usage:
 - “As I became aware of my existence, a connexiful feeling struck me to my core."
